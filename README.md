@@ -1,0 +1,28 @@
+# OPEN MAOGAI
+
+SYSU2024在线毛概思维导图协作计划
+
+毛概考试时间：20240705
+
+## 协作指南
+
+使用下面的共享链接，登录后可在线协作编辑思维导图
+
+- [导论 马克思主义中国化时代化的历史进程与理论成果](https://mm.edrawsoft.cn/app/editor/3qP6mH8eN85TVHfpvvj0ayX54RvmyPNd?share=1&page=8589934692)
+- [第一章 毛泽东思想及其历史地位](https://mm.edrawsoft.cn/app/editor/8FeBvRyj9uxxBErc8epDjPyHW6QHVNny?share=1&page=8589934692)
+- [第二章 新民主主义革命理论](https://mm.edrawsoft.cn/app/editor/cgWqhrsZWzNFSUqEzfSsZHiGwruEnCB0?share=1&page=8889934692)
+- [第三章 社会主义改造理论](https://mm.edrawsoft.cn/app/editor/GcsIMhGbtx1tykTsBeEmNCmRpC7rFmtv?share=1&page=8589934692)
+- [第四章 社会主义建设道路初步探索的理论成果](https://mm.edrawsoft.cn/app/editor/1Iqvy1XYh0dNXzdk3MeFKA7lzkFKLki2?share=1&page=8589934692)
+- [第五章 中国特色社会主义理论体系的形成发展](https://mm.edrawsoft.cn/app/editor/DvGphhJaP0PIvUiyUUJMaf0rvjYp9Awp?share=1&page=8589934692)
+- [第六章 邓小平理论](https://mm.edrawsoft.cn/app/editor/AVsFEmBpW1QfLUG4S5fdnpKG40Ej2fTL?share=1&page=8589934692)
+- [第七章 “三个代表”重要思想](https://mm.edrawsoft.cn/app/editor/blyRI49pikYSu9QHvGtSUjv8J79tjSsy?share=1&page=8589934692)
+- [第八章 科学发展观](https://mm.edrawsoft.cn/app/editor/fc5qITYnTltljweq9YV1AFqIjS84gWf8?share=1&page=8589934692)
+
+注意：MindMaster限制非会员单个页面不能超过100个结点，~~为了方便白嫖~~，为了避免页面内容太多而杂乱，每张图只放一个章节的内容
+
+所有思维导图完工后，CJL会用一些技术手段把所有章节整合在一张图中
+
+## 往期思维导图，可供参考
+
+- [马原](https://mm.edrawsoft.cn/app/editor/iQcb8AIuqu2aienT6KLdMSTx6r37wTpb?share=1&page=8889934692)
+- [思想道德与法制](https://mm.edrawsoft.cn/app/editor/m4wbQq3qF7iCjIHiz8fQQ0zPeb8Wy18E?share=1&page=8889934692)
