@@ -18,11 +18,21 @@ SYSU2024在线毛概思维导图协作计划
 - [第七章 “三个代表”重要思想](https://mm.edrawsoft.cn/app/editor/blyRI49pikYSu9QHvGtSUjv8J79tjSsy?share=1&page=8589934692)
 - [第八章 科学发展观](https://mm.edrawsoft.cn/app/editor/fc5qITYnTltljweq9YV1AFqIjS84gWf8?share=1&page=8589934692)
 
-注意：MindMaster限制非会员单个页面不能超过100个结点，~~为了方便白嫖~~，为了避免页面内容太多而杂乱，每张图只放一个章节的内容
+注意：MindMaster限制非会员单张图不能超过100个结点，~~为了方便白嫖~~，为了避免单张图内容太多而不方便编辑，每张图只放一个章节的内容
 
 所有思维导图完工后，CJL会用一些技术手段把所有章节整合在一张图中
+
+## 重要性分级
+
+![color](/img/color.png)
 
 ## 往期思维导图，可供参考
 
 - [马原](https://mm.edrawsoft.cn/app/editor/iQcb8AIuqu2aienT6KLdMSTx6r37wTpb?share=1&page=8889934692)
 - [思想道德与法制](https://mm.edrawsoft.cn/app/editor/m4wbQq3qF7iCjIHiz8fQQ0zPeb8Wy18E?share=1&page=8889934692)
+
+## source
+
+source文件夹下包含一些参考资料
+
+其中思考题和要点或许是考试重点？在思维导图中可标记
