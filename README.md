@@ -1,6 +1,6 @@
 # OPEN MAOGAI
 
-SYSU2024在线毛概思维导图协作计划
+SYSU2024在线协作毛概思维导图
 
 毛概考试时间：20240705
 
@@ -14,7 +14,8 @@ SYSU2024在线毛概思维导图协作计划
 - [第三章 社会主义改造理论](https://mm.edrawsoft.cn/app/editor/GcsIMhGbtx1tykTsBeEmNCmRpC7rFmtv?share=1&page=8589934692)
 - [第四章 社会主义建设道路初步探索的理论成果](https://mm.edrawsoft.cn/app/editor/1Iqvy1XYh0dNXzdk3MeFKA7lzkFKLki2?share=1&page=8589934692)
 - [第五章 中国特色社会主义理论体系的形成发展](https://mm.edrawsoft.cn/app/editor/DvGphhJaP0PIvUiyUUJMaf0rvjYp9Awp?share=1&page=8589934692)
-- [第六章 邓小平理论](https://mm.edrawsoft.cn/app/editor/AVsFEmBpW1QfLUG4S5fdnpKG40Ej2fTL?share=1&page=8589934692)
+- [第六章 邓小平理论(1)](https://mm.edrawsoft.cn/app/editor/9bdzPjqbp35p7LZ6KZHbZ5mvtyRWS89g?share=1&page=8889934693)
+- [第六章 邓小平理论(2)](https://mm.edrawsoft.cn/app/editor/uxtMGPvD99Cz8IjHvBSlMJ72bUPD67V0?share=1&page=8889934692)
 - [第七章 “三个代表”重要思想](https://mm.edrawsoft.cn/app/editor/blyRI49pikYSu9QHvGtSUjv8J79tjSsy?share=1&page=8589934692)
 - [第八章 科学发展观](https://mm.edrawsoft.cn/app/editor/fc5qITYnTltljweq9YV1AFqIjS84gWf8?share=1&page=8589934692)
 
