@@ -16,7 +16,8 @@ SYSU2024在线协作毛概思维导图
 - [第五章 中国特色社会主义理论体系的形成发展](https://mm.edrawsoft.cn/app/editor/DvGphhJaP0PIvUiyUUJMaf0rvjYp9Awp?share=1&page=8589934692)
 - [第六章 邓小平理论(1)](https://mm.edrawsoft.cn/app/editor/9bdzPjqbp35p7LZ6KZHbZ5mvtyRWS89g?share=1&page=8889934693)
 - [第六章 邓小平理论(2)](https://mm.edrawsoft.cn/app/editor/uxtMGPvD99Cz8IjHvBSlMJ72bUPD67V0?share=1&page=8889934692)
-- [第七章 “三个代表”重要思想](https://mm.edrawsoft.cn/app/editor/blyRI49pikYSu9QHvGtSUjv8J79tjSsy?share=1&page=8589934692)
+- [第七章 “三个代表”重要思想(1)](https://mm.edrawsoft.cn/app/editor/42W3hb6HDXW1M92sWvMwITEZ1VKZ93n3?share=1&page=8889934693)
+- [第七章 “三个代表”重要思想(2)](https://mm.edrawsoft.cn/app/editor/DsGFTuPgzQVAZ5LblXjZWgTT5AVSqf1L?share=1&page=8889934693)
 - [第八章 科学发展观](https://mm.edrawsoft.cn/app/editor/fc5qITYnTltljweq9YV1AFqIjS84gWf8?share=1&page=8589934692)
 
 注意：MindMaster限制非会员单张图不能超过100个结点，~~为了方便白嫖~~，为了避免单张图内容太多而不方便编辑，每张图只放一个章节的内容
